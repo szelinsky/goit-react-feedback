@@ -1,0 +1,1 @@
+{"version":3,"sources":["Statistics.module.css"],"names":[],"mappings":"AAAA,KACC,sBAAuB,CACvB,gBACD,CACA,OACC,gBACD","file":"main.96df0286.chunk.css","sourcesContent":["body {\n\tfont-family: sans-serif;\n\tpadding: 5px 40px;\n}\nbutton {\n\tmargin-right: 8px;\n}"]}
